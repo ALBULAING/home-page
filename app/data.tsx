@@ -52,7 +52,7 @@ export const displayList: Array<AllCard> = [
   {
     id: nanoid(),
     type: 'user',
-    avatar: 'https://image.luckyzh.cn/user/avatar.jpg',
+    avatar: '/images/al.jpg',
     name: 'A Mortal',
     social: [
       {
