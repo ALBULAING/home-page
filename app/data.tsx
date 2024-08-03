@@ -45,9 +45,9 @@ export const displayList: Array<AllCard> = [
       { name: 'CSS', color: '#563D7C' },
       { name: 'Nunjucks', color: '#3D8137' },
     ],
-    describe: '阿凉的个人博客 📝 | 本站致力于分享各种实用资源,
+    describe: '阿凉的个人博客 📝 | 本站致力于分享各种实用资源',
     codeUrl: 'https://github.com/ALBULAING/ALBULAING.github.io',
-    demoUrl: 'https://cool.com.mp/',
+    demoUrl: 'https://cool.com.mp',
   },
   {
     id: nanoid(),
