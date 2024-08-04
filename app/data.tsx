@@ -80,7 +80,7 @@ export const displayList: Array<AllCard> = [
         openNewPage: true,
       },
     ],
-    describe: '静坐常思己过，闲谈莫论人非',
+    describe: '人生是旷野，不是轨道',
   },
   {
     id: nanoid(),
