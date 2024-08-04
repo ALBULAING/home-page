@@ -80,7 +80,7 @@ export const displayList: Array<AllCard> = [
         openNewPage: true,
       },
     ],
-    describe: 'Only by experiencing the hardest hardships can one rise above the ordinary.',
+    describe: '静坐常思己过，闲谈莫论人非',
   },
   {
     id: nanoid(),
