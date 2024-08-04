@@ -80,7 +80,7 @@ export const displayList: Array<AllCard> = [
         openNewPage: true,
       },
     ],
-    describe: '人生是旷野，不是轨道',
+    describe: '且视他人目光如莹莹鬼火，大胆的去走你的夜路。',
   },
   {
     id: nanoid(),
